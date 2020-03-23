@@ -1,0 +1,17 @@
+
+
+.counter {
+    border: 1px solid black;
+    padding: 30px;
+    width: 300px;
+    margin: 30px auto;
+    cursor: pointer;
+    font-size: 20x;
+    font-weight: 600;
+}
+
+.counter span.value {
+    margin-left: 10px;
+    color: blue;
+    
+}
